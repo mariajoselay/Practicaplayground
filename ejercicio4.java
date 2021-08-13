@@ -1,6 +1,6 @@
 package com.company;
 
-
+/*test*/
 public class numerosNaturales {
     public static boolean esPrimo(int num){
         int cont = 0;
